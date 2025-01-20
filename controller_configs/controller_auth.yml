@@ -1,4 +1,4 @@
 ---
-controller_hostname: ansible-controller-web-svc-test-project.example.com
+controller_hostname: controller.{{ server_domain_suffix }}
 controller_username: admin
 controller_password: changeme
