@@ -1,0 +1,14 @@
+---
+# https://galaxy.ansible.com/ui/repo/published/infra/controller_configuration/content/role/hosts/
+controller_hosts:
+#- name: <table> bastion
+#    inventory: <table>
+
+#- name: <table> server1
+#    inventory: <table>
+
+#- name: <table> server 2
+#    inventory: <table>
+
+#- name: <table> OCP server
+#    inventory: <table>

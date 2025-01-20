@@ -1,0 +1,5 @@
+---
+# https://galaxy.ansible.com/ui/repo/published/infra/controller_configuration/content/role/organizations/
+controller_organizations:
+- name: <table>
+  description: <table> org
